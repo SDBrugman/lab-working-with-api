@@ -1,0 +1,1 @@
+my_skyscanner_key = '71ef981e66mshdf2063b9d33878ep192e94jsn503202ed9c07'
